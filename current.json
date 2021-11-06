@@ -1,0 +1,114 @@
+{
+    "car_deal": {
+        "keywords": [
+            { "word": "подбор авто", "bid": 2 },
+            { "word": "авто из США", "bid": 2 },
+            { "word": "авто из Европы", "bid": 2 }
+        ],
+        "h1": [
+            "Пригнать авто из Европы и США",
+            "Подобрать авто из Европы и США",
+            "Доставка авто из Европы и США",
+            "Доставка авто из Европы и США"
+        ],
+        "h2": ["Помощь в подборе автомобиля", "Подбор автомобиля под ключ", "Автоподбор под ключ"],
+        "h3": ["Доставка по всей Украине", "Работаем по договору", "Своя брокерская компания"],
+        "d1": [
+            "Доставка. Доступные цены по доставке авто из Европы в Украину.",
+            "Собственная брокерская компания, возможность растаможивания как на физ., и на юр. лицо",
+            "Команда. Подбором, покупкой и доставкой занимаются профессионалы, работаем без посредников"
+        ],
+        "d2": [
+            "Договор. Подписываем договор, все платежи официальные на банковские счета",
+            "Видео и фото сопровождение от момента покупки до момента передачи автомобиля клиенту",
+            "Проверка. Все как на ладони, полная страховая история автомобиля"
+        ],
+        "snippets": ["Договор", "Доставка", "Растаможка", "Безопасность"],
+        "additionalLinks": [
+            { "url": "#adli1", "h": "Договор", "d1": "Подписываем договор", "d2": "Платежи на банковские счета" },
+            { "url": "#adli2", "h": "Доставка", "d1": "Доступные цены по доставке", "d2": "Из Европы, из США" },
+            {
+                "url": "#adli3",
+                "h": "Брокерская компания",
+                "d1": "Возможность растаможивания",
+                "d2": "Быстро. Безопасно"
+            },
+            { "url": "#adli4", "h": "Проверка", "d1": "Полная страховая история авто", "d2": "Еще до покупки" }
+        ],
+        "budget": {
+            "from": 100,
+            "to": 5000
+        },
+        "maxCPC": 4
+    },
+    "spare": {
+        "keywords": [
+            { "word": "car spare parts", "bid": 2 },
+            { "word": "spare parts for car", "bid": 2 },
+            { "word": "wheels for car", "bid": 2 },
+            { "word": "radiator for car", "bid": 2 },
+            { "word": "bumper for car", "bid": 2 },
+            { "word": "car parts", "bid": 2 }
+        ],
+        "h1": [
+            "Spare parts for car",
+            "Spare parts for vehivle",
+            "Spare parts for japan car",
+            "Spare parts for american car",
+            "Spare parts for korean car",
+            "Spare parts for german car",
+            "Spare parts for japan vehicle",
+            "Spare parts for korean vehicle",
+            "Spare parts for german vehicle"
+        ],
+        "h2": [
+            "Online shop",
+            "Online store",
+            "Online stock",
+            "Online warehouse",
+            "Online shop of spare parts",
+            "Online store of spare parts",
+            "Online stock of spare parts",
+            "Warehouse of spare parts"
+        ],
+        "h3": ["Waranty", "Quality", "Service", "Support", "24/7 support"],
+        "d1": [
+            "Buy spare parst online quickly and easily. All brands are avalable",
+            "Buy spare parst for car online quickly and easily. All brands are avalable",
+            "Buy spare parst for vehivle online quickly and easily. All brands are avalable",
+            "Buy spare parst for american car online quickly and easily. All brands are avalable",
+            "Buy spare parst for korean car online quickly and easily. All brands are avalable",
+            "Buy spare parst for german car online quickly and easily. All brands are avalable",
+            "Buy spare parst for japan car online quickly and easily. All brands are avalable",
+            "Buy spare parst for american vehicle online quickly and easily. All brands are avalable",
+            "Buy spare parst for korean vehicle online quickly and easily. All brands are avalable",
+            "Buy spare parst for german vehicle online quickly and easily. All brands are avalable",
+            "Buy spare parst for japan vehicle online quickly and easily. All brands are avalable"
+        ],
+        "d2": [
+            "Buy and get free delivery and 24/7 support online",
+            "Buy and get free delivery and 24/7 support by phone",
+            "Buy and get low cost delivery and 24/7 support by phone",
+            "Buy and get free shipment and 24/7 support online",
+            "Buy and get free shipment and 24/7 support by phone",
+            "Buy and get low cost shipment and 24/7 support by phone"
+        ],
+        "snippets": ["Waranty", "Quality", "Service", "Support", "24/7 support"],
+        "additionalLinks": [
+            { "url": "#adli1", "h": "Waranty", "d1": "Pay after all", "d2": "Pay after delivery" },
+            { "url": "#adli2", "h": "Quality", "d1": "All goods are certified", "d2": "High quality" },
+            {
+                "url": "#adli3",
+                "h": "Service",
+                "d1": "Consultaion by phone",
+                "d2": "All questions"
+            },
+            { "url": "#adli4", "h": "Support", "d1": "Online 24/7", "d2": "In app & web" }
+        ],
+        "budget": {
+            "from": 100,
+            "to": 5000
+        },
+        "maxCPC": 4
+    }
+}
